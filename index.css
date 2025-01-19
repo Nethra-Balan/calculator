@@ -1,0 +1,52 @@
+/* *{
+    border:1px solid black;
+} */
+button{
+    height:70.95px;
+    font-size:35px;
+    width:100%;
+    border-radius:50%;
+}
+.button0{
+    padding-left: 15%;
+    text-align:left;
+}
+::placeholder{
+    color:white;
+}
+input{
+    color:white;
+    background-color: black;
+    text-align: right;
+    font-size: 3rem;
+    height:70px;
+    width:100%;
+    padding:0;
+    border-width: 0;
+}
+input:focus{
+    outline: none;
+}
+tr{
+    height:60px;
+}
+td{
+    width:25%;
+}
+table{
+    background-color: black;
+    margin:auto;
+    width:25%;
+}
+.numbers{
+    color:white;
+    background-color: rgb(126, 125, 125);
+}
+.op{
+    color:black;
+    background-color: lightgrey;
+}
+.signs{
+    color:white;
+    background-color: orange;
+}
