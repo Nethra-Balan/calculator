@@ -106,4 +106,3 @@ Feel free to contribute to this project by submitting issues or pull requests!
 1. Replace `your-username` with your GitHub username in the cloning command.
 2. Add screenshots named `screenshot-desktop.png` and `screenshot-mobile.png` to your repository.
 3. Create a `LICENSE` file if you decide to license the project under MIT or another license.
-```
