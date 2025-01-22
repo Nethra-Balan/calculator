@@ -27,10 +27,10 @@ A **simple and responsive calculator** built using HTML, CSS, and JavaScript. Th
 ## Screenshots
 
 ### Desktop View
-<img src="screenshot-desktop.png" alt="Desktop View" width="600px">
+<img src="desktop-calculator.png" alt="Desktop View" width="600px">
 
 ### Mobile View
-<img src="screenshot-mobile.png" alt="Mobile View" width="300px">
+<img src="mobile-calculator.png" alt="Mobile View" width="300px">
 
 ## How to Use
 
