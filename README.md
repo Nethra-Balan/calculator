@@ -22,7 +22,7 @@ A **simple and responsive calculator** built using HTML, CSS, and JavaScript. Th
 - **JavaScript**: For dynamic behavior and calculations.
 - **Libraries**:
   - [Font Awesome](https://cdnjs.com/libraries/font-awesome): For stylish icons.
-  - [Bootstrap Icons](https://getbootstrap.com/docs/5.0/icons/): For additional visual elements.
+  - [Bootstrap Icons](https://icons.getbootstrap.com/#install): For additional visual elements.
 
 ## Screenshots
 
