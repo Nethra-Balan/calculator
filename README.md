@@ -88,10 +88,6 @@ function myEval(exp) {
 - Include scientific functions (e.g., square root, trigonometry).
 - Implement a dark/light mode toggle.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgements
 
 - [Font Awesome](https://fontawesome.com/)
