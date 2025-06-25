@@ -38,7 +38,7 @@ A **simple and responsive calculator** built using HTML, CSS, and JavaScript. Th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/calculator.git
+   git clone https://github.com/Nethra-Balan/calculator.git
 2. Open the `index.html` file in your favorite browser.
 
 ## File Structure
@@ -94,11 +94,4 @@ function myEval(exp) {
 - [Bootstrap Icons](https://getbootstrap.com/)
 - [Math.js](https://mathjs.org/)
 
----
 
-Feel free to contribute to this project by submitting issues or pull requests!
-
-### Steps to Follow:
-1. Replace `your-username` with your GitHub username in the cloning command.
-2. Add screenshots named `screenshot-desktop.png` and `screenshot-mobile.png` to your repository.
-3. Create a `LICENSE` file if you decide to license the project under MIT or another license.
